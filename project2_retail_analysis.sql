@@ -74,7 +74,6 @@ GROUP BY state
 ORDER by avg_delivery_days;
 
 -- Q6: Seller performance ranking by Gross Merchandise Value
-
 SELECT oi.seller_id AS seller_id,
 	   COUNT(DISTINCT oi.order_id) AS orders_fulfilled,
 	   ROUND(SUM(oi.price),2) AS gmv,
@@ -87,7 +86,6 @@ LIMIT 20;
 
 
 -- Q6B: Average review score per quartile
-
 SELECT  gmv_quartile,
   		COUNT(*) AS seller_count,
   		ROUND(AVG(GMV), 2) AS avg_gmv,
