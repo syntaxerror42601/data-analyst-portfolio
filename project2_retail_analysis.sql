@@ -1,7 +1,3 @@
--- New script in localhost.
--- Date: Apr 18, 2026
--- Time: 2:09:35 PM
-
 -- Retail & Marketplace Operations Analysis
 -- Dataset: Olist Brazilian E-commerce | ~100K orders across 6 tables
 -- Tools: MySQL, DBeaver
