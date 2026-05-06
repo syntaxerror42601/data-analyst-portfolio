@@ -17,4 +17,4 @@ SQLite · DBeaver · Excel
 - Rural counties, like Harney Oregon, have the fewest fires but 1 million acres burned. Weather, climate, and geography influence fire growth more than ignition frequency.
 
 ## Full Write-Up
-[View the full analysis here]((https://docs.google.com/document/d/1lQcNBOqUmQcF6Pn78UeXImS18tZ_6NNPHMN8WYA-FL8/edit?usp=sharing))
+[View the full analysis here](https://docs.google.com/document/d/1lQcNBOqUmQcF6Pn78UeXImS18tZ_6NNPHMN8WYA-FL8/edit?usp=sharing)
