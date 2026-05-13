@@ -1,4 +1,4 @@
-# Relational Database Design — Starbird Coffee Ordering System
+# Relational Database Design — Starbird Ordering System
 
 A relational database designed for a chicken fast food restaurant ordering system, inspired by a well-known brand, built as an academic team project.
 
