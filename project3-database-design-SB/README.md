@@ -18,3 +18,6 @@ Lucidchart (ERD) · MySQL Workbench · MySQL
 - `build_tables.sql` — creates all tables with constraints
 - `load_data.sql` — inserts sample data
 - `sample_queries.sql` — validates schema with test queries
+
+## Project Documentation
+[View full write-up including ERD, logical schema, and query results](https://github.com/syntaxerror42601/data-analyst-portfolio/blob/main/project3-database-design-SB/Starbird%20Group%20Relational%20Database.pdf)
